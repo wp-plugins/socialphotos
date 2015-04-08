@@ -10,13 +10,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
- Socialphotos integrates your customer generated content from Socialmedia on your website. Increases Brand Credibility and Drives sales.
- You simply connect your Instagram account, create hashtags and connect them with your created galleries.
- There are 2 types of galleries - Product and Custom. Product galleries have one look for all products
- (each gallery has a #product_name_hashtag), whereas Custom galleries ca be customised as you want and placed wherever you want on the site.
+Socialphotos integrates your customer generated content from Socialmedia on your website. Increases Brand Credibility and Drives sales.
 
- Afterwards spread the word to tag photos with #your_hashtags. Each hashtag has its own photos. Then you can moderate
- the stream and choose which photos to display.
+You simply connect your Instagram account, create hashtags and connect them with your created galleries.
+
+There are 2 types of galleries - Product (NOT AVAILABLE IN WP YET) and a Unique Gallery. Product galleries have one look for all products (each gallery has a #product_name_hashtag), whereas Unique galleries ca be customised as you want and placed wherever you want on the site.
+
+Afterwards spread the word to tag photos with #your_hashtags. Each hashtag has its own photos. Then you can moderate the stream and choose which photos to display.
 
 == Installation ==
 
@@ -50,15 +50,24 @@ First of all, check if your account is public and try to tag a photo. Go to your
 
 = How many galleries I can make?
 
-You have the ability to create 2 types of galleries: 
- 1) Product galleries - Single customisation for all galleries, unique product hashtags
- 2) Galleries - used for different purposes and each gallery has it’s own customisation. They can be put anywhere on your website.
-
 There are no limits on how many galleries you can make and no hashtag limits. However, there shouldn’t be more than 2 galleries on 1 page.
+
+There are 2 types of galleries:
+
+1) Galleries - used for different purposes and each gallery has it’s own customisation. They can be put anywhere on your website.Galleries - used for different purposes and each gallery has it’s own customisation. They can be put anywhere on your website.
+
+2) Product galleries - (WE DO NOT YET HAVE A PRODUCT SYNCHRONISATION POSSIBILITY IN WP, HOWEVER, WE ARE WORKING ON IT) Single customisation for all galleries, unique product hashtags
+ 
 
 = Can I create hashtags in other languages besides english?
 	
  Currently you can make hashtags in any language except those which consist of hieroglyphs such as traditional Chinese
+
+= I moved from Shopify / SEOshop to Wordpress / WooCommerce. How can I migrate my data from Socialphotos?
+
+ If you had only unique galleries then the migration is easy. Just install the plugin and paste the generated gallery HTML code into the plugins input field or any place on your website if you want to use the gallery in a more freestyle way e.g. on a separate page.
+
+ If, however, you had product galleries, you can’t migrate them because no product retrieving is possible yet. :( The workaround is to create a gallery for each product and connect hashtags. 
 
 == Screenshots ==
 
@@ -69,7 +78,7 @@ There are no limits on how many galleries you can make and no hashtag limits. Ho
 
 == Changelog ==
 
- = None currently
+ = None currently which doesn’t change the fact that you’re awesome.
 
 == Upgrade Notice ==
 
