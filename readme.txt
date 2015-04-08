@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors:  RolandJeg
 Donate link: www.socialphotosapp.com
-Tags: instagram, social media, visual content
+Tags: instagram, social media, visual content, images, photos, marketing, reviews, plugin
 Requires at least: current version
 Tested up to: current version
 Stable tag: current version
