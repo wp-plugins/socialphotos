@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors:  RolandJeg
 Donate link: www.socialphotosapp.com
-Tags: instagram, social media, visual content, images, photos, marketing, reviews, plugin
+Tags: instagram, social media, visual content, images, image, photos, marketing, reviews, plugin
 Requires at least: 3.5 or higher
 Tested up to: 4.1.1
 Stable tag: 1.0
@@ -78,7 +78,9 @@ There are 2 types of galleries:
 
 == Changelog ==
 
- = None currently which doesn’t change the fact that you’re awesome.
+1.0 
+
+Initial version
 
 == Upgrade Notice ==
 
