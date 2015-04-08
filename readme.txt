@@ -4,7 +4,7 @@ Donate link: www.socialphotosapp.com
 Tags: instagram, social media, visual content, images, photos, marketing, reviews, plugin
 Requires at least: 3.5 or higher
 Tested up to: 4.1.1
-Stable tag: current version
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
