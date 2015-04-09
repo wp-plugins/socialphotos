@@ -18,6 +18,8 @@ There are 2 types of galleries - Product (NOT AVAILABLE IN WP YET) and a Unique 
 
 Afterwards spread the word to tag photos with #your_hashtags. Each hashtag has its own photos. Then you can moderate the stream and choose which photos to display.
 
+Download the widget now and have a 30-day trial for all features.
+
 == Installation ==
 
 1. Create a “Socialphotos” folder in `/wp-content/plugins/` and upload `socialphotos-plugin.php` there OR upload “socialphotos-plugin.php.zip” via your admin panel. Go to Plugins > Upload a file
