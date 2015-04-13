@@ -59,15 +59,20 @@ $socialPhotosPluginCode = __( '', 'wpb_widget_domain' );
 // Widget admin form
 ?>
 <p>
+	<img src="https://cdn.slpht.com/assets/images/sp_logo.png" style="max-width:100%;">
+</p>
+<p>
 	<label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:' ); ?></label> 
-	<input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" placeholder="Title will be displayed above the widget, if any." />
+	<input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" placeholder="Title will be displayed above the widget, if any." / autocomplete="off">
 </p>
 <p>
 	<label>Generated Gallery code*</label>
 	<input type="text" name="<?php echo $this->get_field_name( 'socialphotos-plugin-code' ); ?>"
-		class="widefat form-control" value="<?php echo esc_attr( $socialPhotosPluginCode ); ?>" placeholder="Paste your generated gallery code here">
+		class="widefat form-control" value="<?php echo esc_attr( $socialPhotosPluginCode ); ?>" placeholder="Paste your generated gallery code here" autocomplete="off" style="height: 60px;word-break: break-word;">
 	<label><small>*customization is done in your Socialphotos account</small></label>
 </p>
+
+<p>If you need any help, just visit Socialphotos <a href="http://socialphotosapp.com/support">Support</a> or send us an <a href="mailto:support@socialphotosapp.com">email</a></p>
 
 <?php 
 }
