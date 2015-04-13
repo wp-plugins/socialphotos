@@ -22,12 +22,12 @@ Download the widget now and have a 30-day trial for all features.
 
 == Installation ==
 
-1. Create a “Socialphotos” folder in `/wp-content/plugins/` and upload `socialphotos-plugin.php` there OR upload “socialphotos-plugin.php.zip” via your admin panel. Go to Plugins > Upload a file
+1. Create a `Socialphotos` folder in `/wp-content/plugins/` and upload `socialphotos-plugin.php` there OR upload `socialphotos-plugin.zip` via your admin panel. Go to Plugins > Upload a file
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Add 'Socialphotos' widget to your templates available widget areas in 'Appearances/Widgets'
+3. Add 'Socialphotos' widget to your templates available widget areas in `Appearances/Widgets`
 4. Create a Socialphotos stand-alone account --> www.socialphotosapp.com
 5. Follow the instructions, create hashtags and galleries.
-6. 'Get code' from your gallery and Copy the generated gallery code into the widgets admin panels 'Generated Gallery code' text area.
+6. `Get code` from your gallery and Copy the generated gallery code into the widgets admin panels `Generated Gallery code' text area.
 7. Done!
 
 	Need help? http://socialphotosapp.com/support or email us at support@socialphotosapp.com
@@ -36,19 +36,19 @@ Download the widget now and have a 30-day trial for all features.
 
 = What Socialmedia platform can be connected to the widget?
 
- For now it's Instagram. Later we plan on adding Twitter and other platforms. 
+ For now it`s Instagram. Later we plan on adding Twitter and other platforms. 
 
 = I created hashtags but nothing is displaying on the site. Why?
 
  Each hashtag when created has a checkbox to connect it with a gallery. If you forgot to do it when creating the hashtag,
- you still can connect it by going to 'Hashtag stream' and choosing the hashtag you need. Under the hashtag you'll see in how many
- galleries it's used. (Ex. http://bit.ly/1Da4ubI). If 0, then press 'Change' and check the galleries you need. (Ex. http://bit.ly/1c0mo6M)
+ you still can connect it by going to `Hashtag stream` and choosing the hashtag you need. Under the hashtag you'll see in how many
+ galleries it's used. (Ex. http://bit.ly/1Da4ubI). If 0, then press `Change` and check the galleries you need. (Ex. http://bit.ly/1c0mo6M)
 
 = Why my tagged photos do not show up in the Hashtag stream?
 	
- Instagram allows to collect photos only from public accounts. If the users account who tagged photos with your hashtag is a “Private Account”, those photos will not show up in your “Hashtag stream”
+ Instagram allows to collect photos only from public accounts. If the users account who tagged photos with your hashtag is a `Private Account`, those photos will not show up in your `Hashtag stream`
 
-First of all, check if your account is public and try to tag a photo. Go to your Instagram account Settings > Private Account. If your photo shows up but other user photos don’t, then all works perfect and their accounts are private. Don’t worry, 90% users accounts are public anyway.
+First of all, check if your account is public and try to tag a photo. Go to your Instagram account Settings > Private Account. If your photo shows up but other user photos don`t, then all works perfect and their accounts are private. Don`t worry, 90% users accounts are public anyway.
 
 = How many galleries I can make?
 
@@ -69,7 +69,7 @@ There are 2 types of galleries:
 
  If you had only unique galleries then the migration is easy. Just install the plugin and paste the generated gallery HTML code into the plugins input field or any place on your website if you want to use the gallery in a more freestyle way e.g. on a separate page.
 
- If, however, you had product galleries, you can’t migrate them because no product retrieving is possible yet. :( The workaround is to create a gallery for each product and connect hashtags. 
+ If, however, you had product galleries, you can`t migrate them because no product retrieving is possible yet. :( The workaround is to create a gallery for each product and connect hashtags. 
 
 == Screenshots ==
 
