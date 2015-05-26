@@ -1,24 +1,24 @@
 === Plugin Name ===
 Contributors:  Socialphotos
 Donate link: www.socialphotosapp.com
-Tags: instagram, media, social, gallery, images, image, photos, plugin
+Tags: instagram, media, social, gallery, images, image, photos, plugin, ucg
 Requires at least: 3.5 or higher
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Socialphotos integrates your customer generated content from Socialmedia on your website. Increases Brand Credibility and Drives sales.
+Visual Marketing tool to Discover and integrate your customer Instagram photos, build a loyal customer community and increase conversion.
 
-You simply connect your Instagram account, create hashtags and connect them with your created galleries.
+Seamlessly connect your Instagram, create hashtags and connect them with your created galleries.
 
-There are 2 types of galleries - Product (NOT AVAILABLE IN WP YET) and a Unique Gallery. Product galleries have one look for all products (each gallery has a #product_name_hashtag), whereas Unique galleries ca be customised as you want and placed wherever you want on the site.
+Your Unique Gallery can be customised as you want and placed wherever you want on the site.
 
-Afterwards spread the word to tag photos with #your_hashtags. Each hashtag has its own photos. Then you can moderate the stream and choose which photos to display.
+65% people are visual learners. Images are processed 60’000 times faster than text.
 
-Download the widget now and have a 30-day trial for all features.
+No risk 30-day trial for all features.
 
 == Installation ==
 
@@ -27,7 +27,7 @@ Download the widget now and have a 30-day trial for all features.
 3. Add 'Socialphotos' widget to your templates available widget areas in `Appearances/Widgets`
 4. Create a Socialphotos stand-alone account --> www.socialphotosapp.com
 5. Follow the instructions, create hashtags and galleries.
-6. `Get code` from your gallery and Copy the generated gallery code into the widgets admin panels `Generated Gallery code' text area.
+6. `Get code` from your gallery and Copy the generated gallery code into the widgets admin panels `Generated Gallery code' text area OR put the gallery wherever you want it to appear - Posts, separate pages, homepage etc.
 7. Done!
 
 	Need help? http://socialphotosapp.com/support or email us at support@socialphotosapp.com
